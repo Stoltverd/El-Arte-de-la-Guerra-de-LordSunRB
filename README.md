@@ -20,8 +20,10 @@ Defensa, Loot, Hambre y Vida.
 
 Todas deben ir niveladas según su propia categoría, pero las habilidades de prioridad alta deben estar más altas que las de prioridad baja.
 **EJEMPLO**
+
 ![enter image description here](https://media.discordapp.net/attachments/1531723646920425653/1549530800582828173/Screenshot_20260915_162147_Chrome.jpg?ex=6aab0883&is=6aa9b703&hm=4d9b9f08dc2083162cdcb7160eaba505aadcaa18cb8304103d87be823dbdcb4d&=&format=webp&width=473&height=1024)
 ![enter image description here](https://media.discordapp.net/attachments/1531723646920425653/1549530800930685051/Screenshot_20260915_162159_Chrome.jpg?ex=6aab0883&is=6aa9b703&hm=5403854dec96177d8df17c10d629ee40330744840e4a7837367ecb7c6e2c4d66&=&format=webp&width=473&height=1024)
+
 El daño crítico se trata como su propia categoría intermedia. Es decir, que debe ir más alto que todas las habilidades de prioridad baja, pero por debajo de todas las de prioridad alta.
 
 
